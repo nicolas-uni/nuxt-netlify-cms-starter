@@ -18,9 +18,8 @@
 
 <script>
 import ArticleCard from '~/components/ArticleCard'
-import Container from '~/components/Container'
-
 import blogs from '~/content/blogs.json'
+import Container from '~/components/Container'
 
 export default {
   components: {
