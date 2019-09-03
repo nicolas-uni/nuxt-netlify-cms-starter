@@ -7,7 +7,6 @@
       <ul class="social-icons">
         <li class="icon">
           <a href="#" target="_blank" class="nav-link">
-            <font-awesome-icon :icon="['fab', 'twitter']" />
           </a>
         </li>
       </ul>

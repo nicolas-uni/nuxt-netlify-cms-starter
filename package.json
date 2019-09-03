@@ -14,8 +14,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.19",
-    "@fortawesome/free-brands-svg-icons": "^5.9.0",
     "@nuxtjs/google-tag-manager": "^2.2.0",
     "@nuxtjs/pwa": "^3.0.0-beta.16",
     "@nuxtjs/robots": "^2.2.0",
@@ -25,7 +23,6 @@
     "frontmatter-markdown-loader": "^1.6.1",
     "node-sass": "^4.12.0",
     "nuxt": "^2.8.1",
-    "nuxt-fontawesome": "^0.4.0",
     "nuxt-webfontloader": "^1.1.0",
     "prismjs": "^1.16.0",
     "sass-loader": "^7.1.0",

@@ -93,7 +93,6 @@ export default {
     '@nuxtjs/pwa',
     '@nuxtjs/sitemap',
     '@nuxtjs/robots',
-    'nuxt-fontawesome',
     'nuxt-webfontloader'
   ],
 
@@ -109,25 +108,25 @@ export default {
   /**
    * Font Awesome
    */
-  fontawesome: {
-    imports: [
-      {
-        set: '@fortawesome/free-brands-svg-icons',
-        icons: [
-          'faTwitter',
-          'faInstagram',
-          'faGithub',
-          'faVuejs',
-          'faReact',
-          'faJs',
-          'faDocker',
-          'faWordpress',
-          'faNodeJs',
-          'faYarn'
-        ]
-      }
-    ]
-  },
+  // fontawesome: {
+  //   imports: [
+  //     {
+  //       set: '@fortawesome/free-brands-svg-icons',
+  //       icons: [
+  //         'faTwitter',
+  //         'faInstagram',
+  //         'faGithub',
+  //         'faVuejs',
+  //         'faReact',
+  //         'faJs',
+  //         'faDocker',
+  //         'faWordpress',
+  //         'faNodeJs',
+  //         'faYarn'
+  //       ]
+  //     }
+  //   ]
+  // },
 
   /**
    * Manifest
